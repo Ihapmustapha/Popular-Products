@@ -17,3 +17,9 @@ npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+
+
+
+## User Interface
+
+![UI](https://raw.githubusercontent.com/Ihapmustapha/Popular-Products/master/UserInterface.png) 
